@@ -1,0 +1,30 @@
+body{
+    user-select: none;
+}
+#canvas{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    background: rgb(209, 209, 209);
+    border: solid 5px gray;
+}
+.eventButton{
+    position: absolute;
+    width: 50px;
+    height: 30px;
+    border: solid 2px rgb(161, 161, 161);
+    border-radius: 20%;
+    background: gray;
+    background-repeat: repeat;
+    font-size: 20px;
+    font-family: comic sans ms;
+}
+#breekTsunami{
+    width: 60px;
+}
+#auto{
+    position: absolute;
+    font-family: comic sans ms;
+    width: 100px;
+    
+}
